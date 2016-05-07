@@ -47,3 +47,5 @@
 * Code
   * https://github.com/SylvainCorlay/tutorial
   * https://github.com/bloomberg/bqplot
+  * https://github.com/jovyan/pythreejs
+  * https://github.com/ellisonbg/ipyleaflet
