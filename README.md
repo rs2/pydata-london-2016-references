@@ -49,3 +49,5 @@
   * https://github.com/bloomberg/bqplot
   * https://github.com/jovyan/pythreejs
   * https://github.com/ellisonbg/ipyleaflet
+
+#### *Using Support Vector Machines in Scikit-Learn to discover genetic aetiologies in Schizophrenia* (Tim Vivian-Griffiths)
