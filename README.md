@@ -46,3 +46,4 @@
 
 * Code
   * https://github.com/SylvainCorlay/tutorial
+  * https://github.com/bloomberg/bqplot
