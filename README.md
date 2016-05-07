@@ -41,3 +41,8 @@
 * Slides
   * https://speakerdeck.com/marcobonzanini/building-data-pipelines-in-python
 
+
+#### *Interactive Visualization in Jupyter with Bqplot and Interactive Widgets* (Sylvain Corlay)
+
+* Code
+  * https://github.com/SylvainCorlay/tutorial
